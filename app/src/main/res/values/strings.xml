@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Конвертер валют</string>
+    <string name="action_settings">Settings</string>
+    <string name="cbr_json">https://www.cbr-xml-daily.ru/daily_json.js</string>
+</resources>
